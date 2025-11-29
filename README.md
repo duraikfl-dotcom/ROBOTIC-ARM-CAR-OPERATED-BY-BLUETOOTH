@@ -21,10 +21,15 @@ This project showcases a strong aptitude for transforming software concepts into
 Components Used
 
 1.Microcontroller: Arduino UNO
+
 2.Actuators: 3x Servo Motors (for the arm)
+
 3.Driver: L298N Motor Driver (for DC motors)
+
 4.Communication: HC-05 Bluetooth Module
+
 5.Power: 9V Battery
+
 6.Movement: 2x DC Motors and 2× Support 
 
 Project Demonstration
