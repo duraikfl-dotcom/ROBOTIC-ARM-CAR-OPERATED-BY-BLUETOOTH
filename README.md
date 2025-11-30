@@ -34,7 +34,10 @@ Components Used
 
 Project Demonstration
 
-[https://drive.google.com/file/d/1tPf5DMdhYPEJXeJ6eV0orWh7_2BJSXKG/view?usp=drivesdk]- Please check the video for a live demonstration of object manipulation.
+Picture:[https://raw.githubusercontent.com/duraikfl-dotcom/ROBOTIC-ARM-CAR-OPERATED-BY-BLUETOOTH/refs/heads/main/1000069379.jpg]
+
+
+Video:[https://drive.google.com/file/d/1tPf5DMdhYPEJXeJ6eV0orWh7_2BJSXKG/view?usp=drivesdk]- Please check the video for a live demonstration of object manipulation.
 
 Code Files
 
